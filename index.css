@@ -169,6 +169,7 @@ button {
     height: 10rem;
     margin-top: -20%;
     margin-left: -10%;
+    z-index: 100 !important;
   }
 
   .card_back_image {
